@@ -170,7 +170,7 @@ public class Leads extends SFReuseMethods{
 		leadDropDown();	
 		todaysLeadPage();
 		newButtonLeadsHome();
-		goButtonfunc();
+		//goButtonfunc();
 
 	}
 
